@@ -1,2 +1,2 @@
-# SlientHttpRS_X264H
-X264H_RS_audio
+# AFNetWorking RequestServer Master
+base on AF RS,and make some changes of the RS using.
